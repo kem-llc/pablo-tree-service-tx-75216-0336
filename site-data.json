@@ -1,0 +1,325 @@
+{
+  "business": {
+    "name": "Pablo Tree Service",
+    "shortName": "Pablo Tree Service",
+    "tagline": "Expert Tree Care for Dallas Homes",
+    "niche": "Tree Service",
+    "phone": "(214) 864-0336",
+    "address": "Dallas, TX 75216",
+    "city": "TX 75216",
+    "hours": "Mon-Sat: 7am-7pm",
+    "ctaLabel": "Get a Free Estimate",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Pablo Tree Service | Expert Tree Care in Dallas, TX 75216",
+    "description": "Pablo Tree Service offers professional tree removal, trimming, stump grinding, and emergency tree care in Dallas. Call (214) 864-0336 for a free estimate."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Trusted Tree Service in Dallas",
+      "headline": "Professional Tree Care You Can Rely On",
+      "subheadline": "From routine trimming to emergency removal, Pablo Tree Service delivers safe, affordable solutions for your property.",
+      "primaryCta": "Get a Free Estimate",
+      "secondaryCta": "Call Now"
+    },
+    "stats": [
+      {
+        "value": "150+",
+        "label": "Trees Removed"
+      },
+      {
+        "value": "12+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "98%",
+        "label": "Satisfied Customers"
+      },
+      {
+        "value": "4.2",
+        "label": "Rating on Google"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Comprehensive Services",
+        "title": "Full-Spectrum Tree Care for Dallas Properties",
+        "body": "Whether you need a single dead limb removed or an entire lot cleared, Pablo Tree Service has the skills and equipment to get the job done safely. We handle everything from pruning to stump grinding with precision and care.",
+        "bullets": [
+          "Licensed and insured for your protection",
+          "Free on-site estimates with no obligation",
+          "Eco-friendly disposal options available"
+        ],
+        "reverse": false,
+        "cardLabel": "Safety First",
+        "cardTitle": "We Prioritize Safety",
+        "cardBody": "Our team follows strict safety protocols to protect your home and family. Every job is assessed for risks before we begin."
+      },
+      {
+        "eyebrow": "Emergency Services",
+        "title": "24/7 Emergency Tree Removal",
+        "subheadline": "Storm damage? Fallen tree? We respond fast.",
+        "body": "When disaster strikes, you need a tree service that answers the call. Pablo Tree Service offers rapid response for emergency situations, minimizing damage and restoring safety to your property.",
+        "bullets": [
+          "Same-day service available",
+          "Crane-assisted removals for large trees",
+          "Debris cleanup included"
+        ],
+        "reverse": true,
+        "cardLabel": "Fast Response",
+        "cardTitle": "We're Here When You Need Us",
+        "cardBody": "Call our emergency line and we'll dispatch a crew to your location within hours."
+      }
+    ],
+    "whyTitle": "Why Choose Pablo Tree Service?",
+    "whyChooseUs": [
+      {
+        "title": "Experienced Team",
+        "description": "Our arborists have over a decade of hands-on experience with Dallas trees, ensuring expert care."
+      },
+      {
+        "title": "Affordable Pricing",
+        "description": "We offer competitive rates without hidden fees. Get a transparent quote upfront."
+      },
+      {
+        "title": "Fully Insured",
+        "description": "We carry liability and workers' comp insurance for complete peace of mind."
+      },
+      {
+        "title": "Clean Work Sites",
+        "description": "We leave your property spotless, hauling away all debris and grinding stumps flush to the ground."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Pablo's crew removed a huge oak that was leaning toward my house. They were professional, fast, and cleaned up every twig. Highly recommend!",
+        "author": "Maria G.",
+        "role": "Oak Cliff homeowner"
+      },
+      {
+        "quote": "I needed emergency service after a storm took down a limb onto my fence. Pablo came out the same day and had it removed in an hour. Fair price too.",
+        "author": "James T.",
+        "role": "Pleasant Grove resident"
+      },
+      {
+        "quote": "They trimmed my pecan trees and shaped them beautifully. The yard looked better than before. Will use again.",
+        "author": "Linda R.",
+        "role": "South Dallas homeowner"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Transform Your Yard?",
+      "subheadline": "Get a free, no-obligation estimate today.",
+      "primaryCta": "Get a Free Estimate",
+      "secondaryCta": "Call (214) 864-0336"
+    }
+  },
+  "servicesPage": {
+    "intro": "From routine trimming to emergency removals, Pablo Tree Service offers a full range of tree care solutions for Dallas homeowners and businesses. Our experienced team uses industry-leading equipment to deliver safe, efficient results."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Tree Removal",
+      "shortDescription": "Safe removal of any tree, regardless of size or location.",
+      "longDescription": "When a tree becomes a hazard or needs to be removed for construction, Pablo Tree Service provides expert removal. We assess the tree's condition, plan the safest approach, and execute removal with precision using cranes, rigging, and specialized tools. Our team handles all cleanup, leaving your property clean and safe.",
+      "benefits": [
+        "Eliminates safety risks from dead or diseased trees",
+        "Clears space for new landscaping or construction",
+        "Prevents damage to structures during storms"
+      ],
+      "process": [
+        {
+          "title": "Assessment",
+          "description": "We inspect the tree and surrounding area to determine the best removal method."
+        },
+        {
+          "title": "Removal",
+          "description": "Using ropes, cranes, or sectional dismantling, we carefully take down the tree piece by piece."
+        },
+        {
+          "title": "Cleanup",
+          "description": "We haul away all debris, grind the stump if desired, and restore your yard."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How much does tree removal cost?",
+          "answer": "Cost depends on tree size, location, and complexity. We provide free estimates with no obligation."
+        },
+        {
+          "question": "Do you need a permit for tree removal in Dallas?",
+          "answer": "Some trees require permits. We can help you check with local authorities and ensure compliance."
+        }
+      ],
+      "slug": "tree-removal"
+    },
+    {
+      "icon": "02",
+      "title": "Tree Trimming & Pruning",
+      "shortDescription": "Enhance tree health and appearance with professional pruning.",
+      "longDescription": "Regular trimming keeps trees healthy, promotes fruit production, and improves curb appeal. Our arborists use proper pruning techniques to remove dead or crossing branches, shape the canopy, and encourage strong growth. We work with all tree species common to Dallas, including oaks, pecans, and elms.",
+      "benefits": [
+        "Improves tree structure and longevity",
+        "Increases sunlight penetration to your yard",
+        "Reduces risk of limb failure during storms"
+      ],
+      "process": [
+        {
+          "title": "Inspection",
+          "description": "We evaluate the tree's health and identify branches that need removal."
+        },
+        {
+          "title": "Pruning",
+          "description": "Using sharp, clean tools, we make precise cuts to maintain the tree's natural form."
+        },
+        {
+          "title": "Cleanup",
+          "description": "All clippings are removed and disposed of, leaving your property tidy."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "When is the best time to trim trees?",
+          "answer": "Late winter or early spring is ideal for most trees, but we can trim year-round as needed."
+        },
+        {
+          "question": "Will trimming damage my tree?",
+          "answer": "Proper pruning by professionals actually strengthens trees. We follow ANSI standards to ensure healthy cuts."
+        }
+      ],
+      "slug": "tree-trimming-pruning"
+    },
+    {
+      "icon": "03",
+      "title": "Stump Grinding",
+      "shortDescription": "Remove unsightly stumps quickly and efficiently.",
+      "longDescription": "Leftover stumps can be tripping hazards, attract pests, and ruin your lawn's appearance. Our stump grinding service uses powerful equipment to grind stumps below ground level, allowing you to replant or sod over the area. We clean up all wood chips and level the site.",
+      "benefits": [
+        "Eliminates tripping hazards in your yard",
+        "Prevents termites and other pests from nesting",
+        "Frees up space for new landscaping"
+      ],
+      "process": [
+        {
+          "title": "Site Prep",
+          "description": "We clear debris and ensure safe access for the grinder."
+        },
+        {
+          "title": "Grinding",
+          "description": "The stump is ground down to 6-12 inches below grade using a professional stump grinder."
+        },
+        {
+          "title": "Finish",
+          "description": "We backfill the hole with soil and remove all wood chips."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How deep do you grind stumps?",
+          "answer": "We typically grind 6-12 inches below ground level, which is sufficient for most landscaping needs."
+        },
+        {
+          "question": "Can I plant a tree in the same spot after grinding?",
+          "answer": "Yes, but we recommend waiting a few months or replacing the soil to prevent nutrient issues."
+        }
+      ],
+      "slug": "stump-grinding"
+    },
+    {
+      "icon": "04",
+      "title": "Emergency Tree Service",
+      "shortDescription": "Rapid response for storm damage and fallen trees.",
+      "longDescription": "When a tree falls on your home, driveway, or power lines, every minute counts. Pablo Tree Service offers 24/7 emergency response to safely remove fallen trees and limbs. We work with your insurance company and coordinate with utility crews to restore safety quickly.",
+      "benefits": [
+        "Fast, reliable response when you need it most",
+        "Minimizes further damage to your property",
+        "Handles all debris removal and cleanup"
+      ],
+      "process": [
+        {
+          "title": "Dispatch",
+          "description": "Call our emergency line and we'll send a crew immediately."
+        },
+        {
+          "title": "Assessment",
+          "description": "We evaluate the situation and prioritize safety hazards."
+        },
+        {
+          "title": "Removal & Cleanup",
+          "description": "We remove the tree, clear debris, and secure the area."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How quickly can you respond to an emergency?",
+          "answer": "We aim to be on-site within 2 hours for emergencies within Dallas."
+        },
+        {
+          "question": "Will my insurance cover emergency tree removal?",
+          "answer": "Many policies cover removal if the tree damages a structure. We can help document the damage for your claim."
+        }
+      ],
+      "slug": "emergency-tree-service"
+    }
+  ],
+  "about": {
+    "headline": "Dallas' Trusted Tree Care Professionals",
+    "mission": "To provide safe, affordable, and professional tree services that enhance the beauty and safety of Dallas properties.",
+    "story": [
+      "Pablo Tree Service was founded with a simple mission: deliver quality tree care at fair prices. Starting with a single truck and a passion for arboriculture, Pablo grew the business by focusing on customer satisfaction and reliable service. Over the years, we've expanded our equipment and team, but our commitment to doing the job right has never changed.",
+      "Today, we serve homeowners and businesses across Dallas, from Oak Cliff to Pleasant Grove. Every project, big or small, receives the same attention to detail and respect for your property. We're proud to be a local, family-run business that treats every customer like a neighbor."
+    ],
+    "highlight": {
+      "stat": "12+",
+      "label": "Years Serving Dallas"
+    },
+    "coreValues": [
+      {
+        "title": "Safety",
+        "description": "We never compromise on safety. Every job follows strict protocols to protect people and property."
+      },
+      {
+        "title": "Integrity",
+        "description": "We give honest assessments and transparent pricing — no surprises."
+      },
+      {
+        "title": "Quality",
+        "description": "We take pride in our work, ensuring every cut is precise and every site is clean."
+      },
+      {
+        "title": "Community",
+        "description": "As a local business, we care about our neighbors and strive to make Dallas greener and safer."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get Your Free Estimate Today",
+    "subheadline": "Call or fill out the form, and we'll get back to you within 24 hours.",
+    "primaryCta": "Call (214) 864-0336",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Oak Cliff",
+      "Pleasant Grove",
+      "South Dallas",
+      "Cedar Crest",
+      "Lancaster",
+      "Desoto",
+      "Duncanville"
+    ]
+  },
+  "social_proof": {
+    "rating": 4.2,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Tree Service",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:2148640336",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
